@@ -1,4 +1,4 @@
-# yapi-mcp
+# @tongyuhu/yapi-mcp
 
 YApi 接口查询 MCP 服务器，让 Claude 能够直接获取 YApi 接口文档信息。
 
@@ -19,7 +19,7 @@ YApi 接口查询 MCP 服务器，让 Claude 能够直接获取 YApi 接口文�
   "mcpServers": {
     "yapi": {
       "command": "npx",
-      "args": ["-y", "yapi-mcp"],
+      "args": ["-y", "@tongyuhu/yapi-mcp"],
       "env": {
         "YAPI_URL": "http://your-yapi-server.com",
         "YAPI_USERNAME": "your_username",

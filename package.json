@@ -1,5 +1,5 @@
 {
-  "name": "yapi-mcp",
+  "name": "@tongyuhu/yapi-mcp",
   "version": "1.0.0",
   "description": "MCP 服务器 - 提供 YApi 接口信息查询功能",
   "type": "module",
