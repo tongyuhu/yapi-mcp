@@ -1,0 +1,7 @@
+src/
+tsconfig.json
+.env
+.env.example
+.cookie
+.gitignore
+API_DOCUMENTATION.md
